@@ -1,7 +1,14 @@
 bootstrap-sass-theme-seed
 =========================
 
-A seed for custom theme for twitter bootstrap with SASS
+A good practise for:
+
+- If you want to customize Bootstrap from SASS ?
+- If you only want to work on your own files, not core-modification. ?
+- If you want to create multiple-themes for bootstrap ?
+- If you want a better way to manage your SASS files ?
+
+``bootstrap-sass-theme-seed`` is a seed for custom theme for twitter bootstrap with SASS
 
 - Twitter bootstrap: 3.1.1
 - Bootstrap SASS: 3.1.1 (https://github.com/twbs/bootstrap-sass)
